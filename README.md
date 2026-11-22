@@ -13,16 +13,16 @@ I hold a Post Graduate Program in AI/ML from UT Austin, and I'm currently prepar
 
 | Project | What it does | Tech |
 |---|---|---|
-| [**ai-financial-planner**](https://github.com/mvlaxminarayan/ai-financial-planner) | "FinThrivin": a Streamlit app with a conversational financial assistant, a financial health dashboard, insights, alerts, and an education section. Containerized with Docker. | Python, Streamlit, Docker |
+| [**ai-financial-planner**](https://github.com/mvlaxminarayan/ai-financial-planner) | "FinThrivin": a Streamlit app with a conversational financial assistant, a financial health dashboard, insights, alerts, and an education section. Containerized with Docker. | Python, Streamlit, Docker, CrewAI |
 | [**dataScience**](https://github.com/mvlaxminarayan/dataScience) | Nine end-to-end ML projects from my AI/ML program: CNN image classification (plant seedlings), ANN bank-churn prediction, K-Means customer segmentation, ensemble models (travel package purchase), logistic regression and decision trees (personal loan campaign), used-car price regression, and NLP sentiment analysis on airline tweets. | Python, TensorFlow, Keras, scikit-learn, XGBoost, NLTK, pandas |
-| [**hackathon_mudra_loan_defaulter**](https://github.com/mvlaxminarayan/hackathon_mudra_loan_defaulter) | Hackathon project on loan default prediction. | Python, Jupyter |
+| [**hackathon_mudra_loan_defaulter**](https://github.com/mvlaxminarayan/hackathon_mudra_loan_defaulter) | Hackathon project on loan default prediction. | Python, Jupyter, XGBClassifier |
 
 ## 🧰 Tech I work with
 
 - **Languages:** Python, SQL
 - **AI / ML:** deep learning (CNNs, ANNs with TensorFlow/Keras), classical ML (scikit-learn, XGBoost, ensembles), NLP, LLM applications
 - **Apps & tooling:** Streamlit, Docker, Jupyter, Google Colab
-- **Data engineering:** *(add your stack here, e.g. BigQuery, Databricks, Airflow, dbt)*
+- **Data engineering:** *BigQuery, SQL, Python, Airflow, *
 - **Quality:** test automation, data quality, production support
 
 ## 🌱 What I'm working on
@@ -32,5 +32,5 @@ I hold a Post Graduate Program in AI/ML from UT Austin, and I'm currently prepar
 
 ## 📫 Let's connect
 
-- LinkedIn: *[add your LinkedIn URL]*
-- Email: *[add your email]*
+- LinkedIn: *https://www.linkedin.com/in/laxminarayanamv*
+- Email: *mvlaxminarayan@gmail.com*

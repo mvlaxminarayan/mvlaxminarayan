@@ -22,7 +22,7 @@ I hold a Post Graduate Program in AI/ML from UT Austin, and I'm currently prepar
 - **Languages:** Python, SQL
 - **AI / ML:** deep learning (CNNs, ANNs with TensorFlow/Keras), classical ML (scikit-learn, XGBoost, ensembles), NLP, LLM applications
 - **Apps & tooling:** Streamlit, Docker, Jupyter, Google Colab
-- **Data engineering:** *BigQuery, SQL, Python, Airflow, *
+- **Data engineering:** BigQuery, SQL, Python, Airflow, CloudSql, GCP Storage buckets
 - **Quality:** test automation, data quality, production support
 
 ## 🌱 What I'm working on
